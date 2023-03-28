@@ -1,0 +1,29 @@
+.elementor-10 .elementor-element.elementor-element-723d124 > .elementor-container{min-height:600px;}.elementor-10 .elementor-element.elementor-element-723d124:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-723d124 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("/wp-content/uploads/2023/03/COVER.png");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-10 .elementor-element.elementor-element-723d124{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0em 0em 0em 0em;}.elementor-10 .elementor-element.elementor-element-723d124 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-10 .elementor-element.elementor-element-99554e3:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-10 .elementor-element.elementor-element-99554e3 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-10 .elementor-element.elementor-element-99554e3 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:30px 30px 30px 30px;}.elementor-10 .elementor-element.elementor-element-99554e3 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-10 .elementor-element.elementor-element-19f4796{text-align:left;}.elementor-10 .elementor-element.elementor-element-19f4796 .elementor-heading-title{color:#CE0764;font-family:"New Frank", Sans-serif;font-size:29px;font-weight:600;}.elementor-10 .elementor-element.elementor-element-916fddf{text-align:left;}.elementor-10 .elementor-element.elementor-element-916fddf .elementor-heading-title{color:#0B1D40;font-family:"New Frank", Sans-serif;font-size:29px;font-weight:600;}.elementor-10 .elementor-element.elementor-element-48708c6{text-align:left;}.elementor-10 .elementor-element.elementor-element-48708c6 .elementor-heading-title{color:#0B1D40;font-family:"New Frank", Sans-serif;font-size:20px;font-weight:400;}.elementor-10 .elementor-element.elementor-element-0d6132f{text-align:left;}.elementor-10 .elementor-element.elementor-element-0d6132f .elementor-heading-title{color:#CE0764;font-family:"New Frank", Sans-serif;font-size:20px;font-weight:400;}:root{--page-title-display:none;}@media(min-width:768px){.elementor-10 .elementor-element.elementor-element-353a8db{width:65%;}.elementor-10 .elementor-element.elementor-element-99554e3{width:35%;}}@media(min-width:1025px){.elementor-10 .elementor-element.elementor-element-723d124:not(.elementor-motion-effects-element-type-background), .elementor-10 .elementor-element.elementor-element-723d124 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'New Frank';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/03/Frank-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'New Frank';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/03/Frank-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'New Frank';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/03/Frank-BoldRough.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'New Frank';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/03/Frank-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
